@@ -16,7 +16,7 @@ const banner = blessed.box({
     left: 'center',
     width: '100%',
     height: 3,
-    content: '{center}{bold}AUTO BOT MONADSCORE - AIRDROP INSIDERS{/bold}{/center}',
+    content: '{center}{bold}AUTO BOT MONADSCORE - CRYPTO WITH ARYAN{/bold}{/center}',
     tags: true,
     style: { fg: 'cyan' },
     border: { type: 'line', fg: 'white' }
