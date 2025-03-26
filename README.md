@@ -53,3 +53,10 @@ MIT License
 
 ## Donate 
 `Bitcoin`
+```
+bc1qea24u476mq92ecjqpyh9uu2syqpyah2x5zkhsk
+```
+`Etherium`
+```
+0xE1035Aa9faa2772C4daCC70d56CD0bF18aDBab7d
+```
