@@ -10,8 +10,8 @@ Monadscore Auto Bot is an automated tool for generating Ethereum wallets and reg
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/airdropinsiders/Monadscore-Auto-Bot.git
-cd Monadscore-Auto-Bot
+git clone https://github.com/blacksmith69-glitch/Monadscore-auto-bot
+cd Monadscore-auto-bot
 ```
 
 2. Install dependencies
@@ -50,3 +50,6 @@ When prompted, enter the number of wallets to generate.
 
 ## License
 MIT License
+
+## Donate 
+`Bitcoin`
