@@ -16,7 +16,7 @@
       "wallet",
       "monadscore"
     ],
-    "author": "AirdropInsiders",
+    "author": "CryptoWithAryanog",
     "license": "MIT",
     "dependencies": {
       "axios": "^1.6.0",
